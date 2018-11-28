@@ -1,5 +1,5 @@
-Rosettacode task solutions in clojure
-=====================================
+Some sorting algorithms in Clojure
+==================================
 
 This is a set of personal Clojure solutions to the
 [rosettacode tasks](http://rosettacode.org/wiki/Rosetta_Code), some of
